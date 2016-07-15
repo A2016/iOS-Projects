@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>New item</key>
+	<array>
+		<dict>
+			<key>uuid</key>
+			<string>90A0CC77-35BA-4C09-AC28-D196D991B50D</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mango</string>
+		</dict>
+		<dict>
+			<key>price</key>
+			<real>79.5</real>
+		</dict>
+		<dict>
+			<key>inShoppingList</key>
+			<true/>
+		</dict>
+	</array>
+</dict>
+</plist>
